@@ -1,0 +1,63 @@
+# Compiled source files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+*.dSYM/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Generated files
+*.ilk
+*.tmp
+*.log
+*.stackdump
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj*
+*.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
